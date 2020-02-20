@@ -49,13 +49,14 @@ const Navbar = (props) => {
 export default Navbar
 
 const NavBar = styled(animated.nav)`
-  position: fixed;
+  position: sticky;
   width: 100%;
   top: 0;
   left: 0;
-  background: #2d3436;
+  background: black;
   z-index: 1;
   font-size: 1.4rem;
+  opacity: 0.75;
 `;
 
 const FlexContainer = styled.div`
@@ -73,7 +74,7 @@ const NavLinks = styled(animated.ul)`
   margin: auto 0;
 
   & a {
-    color: #dfe6e9;
+    color: white;
     text-transform: uppercase;
     font-weight: 600;
     border-bottom: 1px solid transparent;
@@ -83,7 +84,7 @@ const NavLinks = styled(animated.ul)`
     cursor: pointer;
 
     &:hover {
-      color: #fdcb6e;
+      color: #faba22;
       border-bottom: 1px solid #fdcb6e;
     }
 
