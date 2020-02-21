@@ -30,7 +30,7 @@ const CollapseMenu = (props) => {
 export default CollapseMenu;
 
 const CollapseWrapper = styled(animated.div)`
-  background: #2d3436;
+  background: #2fe3ff;
   position: fixed;
   top: 4.5rem;
   left: 0;
@@ -55,7 +55,7 @@ const NavLinks = styled.ul`
 
     &:hover {
       color: #fdcb6e;
-      border-bottom: 1px solid #fdcb6e;
+      border-bottom: 1px solid #2fe3ff;
     }
   }
 `;

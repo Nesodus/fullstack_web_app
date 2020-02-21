@@ -1,6 +1,7 @@
 import React, { Component } from 'react'
 import Navbar from "/Users/Administrator/fullstack_react_app/src/components/navbar/Navbar";
 import styled from 'styled-components';
+import GlobalStyles from "../styles/Global";
 
 class Home extends Component {
     state = {
@@ -50,6 +51,7 @@ class Home extends Component {
 
                     </h2>
                 </TextContainer>
+                <GlobalStyles/>
             </>
         )
     }

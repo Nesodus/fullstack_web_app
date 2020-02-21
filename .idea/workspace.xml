@@ -2,16 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29606868-a9a1-4cea-81c1-0bee181b2277" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/About me.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About me.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar/BurgerMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/BurgerMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar/CollapseMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/CollapseMenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/navbar/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/notFound.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/notFound.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/AboutMe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Experience.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Experience.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/TechStack.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/TechStack.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/views" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -82,7 +91,11 @@
       <updated>1582049648433</updated>
       <workItem from="1582049653389" duration="4570000" />
       <workItem from="1582098345762" duration="3253000" />
-      <workItem from="1582204392660" duration="2473000" />
+      <workItem from="1582204392660" duration="5071000" />
+      <workItem from="1582210354633" duration="83000" />
+      <workItem from="1582213809235" duration="514000" />
+      <workItem from="1582214460528" duration="3591000" />
+      <workItem from="1582279879999" duration="4293000" />
     </task>
     <servers />
   </component>
@@ -98,5 +111,9 @@
       <screen x="0" y="23" width="1280" height="725" />
     </state>
     <state x="100" y="123" width="1080" height="514" key="DiffContextDialog/0.23.1280.725@0.23.1280.725" timestamp="1582101698366" />
+    <state x="33" y="23" key="SettingsEditor" timestamp="1582279956194">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="33" y="23" key="SettingsEditor/0.23.1280.724@0.23.1280.724" timestamp="1582279956194" />
   </component>
 </project>

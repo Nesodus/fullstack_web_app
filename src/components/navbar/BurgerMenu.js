@@ -11,7 +11,7 @@ const Burgermenu = (props) => {
             </div>
         </Wrapper>
     );
-}
+};
 
 export default Burgermenu;
 
@@ -22,7 +22,7 @@ const Wrapper = styled.div`
   display: block;
 
   & span {
-    background: #fdcb6e;
+    background: #2fe3ff;
     display: block;
     position: relative;
     width: 3.5rem;
