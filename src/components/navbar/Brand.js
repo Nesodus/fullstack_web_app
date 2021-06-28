@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from "styled-components";
 
-import logo from "/Users/Administrator/fullstack_react_app/src//logo.svg";
+import logo from "../../logo.svg";
 
 const Brand = () => {
     return (
